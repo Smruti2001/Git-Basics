@@ -1,0 +1,1 @@
+1. `git init` -> This powers your folder to be managed by git, and initialises a new repository. It also creates a .git folder that has all the relevant logic to manage versio of your project.
