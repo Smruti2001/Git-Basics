@@ -32,7 +32,7 @@
 
 17. git remote add <name of remote> <link of the remote> : this command helps us to add a new link to the remote repo and give a name to it
 
-18. git remote rm <name of remote> : this command deletes a remote connection
+18. git remote rm <name of remote> : this command deletes a remote connection.
 
 19. git remote rename <oldname> <newname> : this command remanes the remote connection
 
